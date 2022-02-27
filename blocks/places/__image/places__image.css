@@ -1,0 +1,10 @@
+.places__image {
+  max-height: 460px;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+.places__image:last-of-type {
+  max-width: 460px;
+  min-height: 460px;
+}
