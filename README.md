@@ -22,6 +22,6 @@ This is a project that showcases the hometowns of some of Practicum's employees.
 
 **Github Pages**
 
-- [Check out this Wensite](https://mcdevs365.github.io/web_project_3/)
+- [Check out the Website](https://mcdevs365.github.io/web_project_3/)
 
 Good luck and have fun!
