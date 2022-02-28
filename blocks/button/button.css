@@ -20,3 +20,25 @@
 .button:hover {
   background-color: #0063d2;
 }
+
+@media screen and (max-width: 571px) {
+  .button {
+    max-height: calc(21.78px * 2);
+    box-sizing: content-box;
+  }
+}
+
+@media screen and (max-width: 421px) {
+  .button {
+    max-height: calc(21.78px * 3);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .button {
+    max-width: calc(100% - 2 * 16px);
+    margin: auto;
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+}
