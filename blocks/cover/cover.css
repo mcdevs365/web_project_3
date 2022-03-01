@@ -33,7 +33,7 @@
 @media screen and (max-width: 768px) {
   .cover {
     width: 100%;
-    max-height: 746px;
+    min-height: 746px;
   }
 }
 

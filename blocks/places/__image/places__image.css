@@ -1,18 +1,13 @@
 .places__image {
-  max-height: 460px;
-  max-width: 100%;
-  object-fit: cover;
-}
-
-.places__image:last-of-type {
   width: 460px;
   height: 460px;
+  max-width: 100%;
+  object-fit: cover;
 }
 
 @media screen and (max-width: 768px) {
   .places__image {
     max-height: 340px;
-    max-width: 100%;
     object-fit: cover;
   }
 }
@@ -20,7 +15,5 @@
 @media screen and (max-width: 320px) {
   .places__image {
     max-height: 320px;
-    max-width: 100%;
-    object-fit: cover;
   }
 }
