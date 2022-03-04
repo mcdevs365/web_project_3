@@ -1,6 +1,6 @@
 .cover {
   background-image: url("../../images/__background\(1\).png");
-  width: calc(100%);
+  width: calc(100% - 2 * 48px);
   min-height: 740px;
   background-size: cover;
   display: flex;
