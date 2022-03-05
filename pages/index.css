@@ -45,7 +45,7 @@
 
 /*Button*/
 @import url(../blocks/button/button.css);
-@import url(../blocks/button/_location_cover/button_location_cover.css);
+@import url(../blocks/button/_location/button_location_cover.css);
 
 /*Cover*/
 @import url(../blocks/cover/cover.css);
